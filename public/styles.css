@@ -7,6 +7,9 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 body {
+  background-color: #008c8c;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
   background: #eee;
   padding: 0 16px;
 }
